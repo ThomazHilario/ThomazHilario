@@ -1,6 +1,6 @@
 ### Olá! meu nome é Thomaz Alves
 ---
-Tenho 19 anos, moro em Cascavel/Ce, gosto de jogos, series, animes e programação, atualmente estou em uma jornada de aprendizado e desenvolvimento contínuo no mundo da programação.
+Tenho 18 anos, moro em Cascavel/Ce, gosto de jogos, series, animes e programação, atualmente estou em uma jornada de aprendizado e desenvolvimento contínuo no mundo da programação.
 
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rp0_thomazalves/)
