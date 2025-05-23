@@ -17,5 +17,8 @@ Tenho 20 anos, moro em Cascavel/Ce, gosto de jogos, series, animes e programa√ß√
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width= '40' height = '50'> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JAVASCRIPT" width= '40' height = '50'> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" width= '40' height = '50'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="TYPESCRIPT" width= '40' height = '50' />     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="REACT" width= '40' height = '50' />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="DOCKER" width= '40' height = '50' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NESTJS" width= '40' height = '50' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="GIT" width= '40' height = '50' />
 </div>
